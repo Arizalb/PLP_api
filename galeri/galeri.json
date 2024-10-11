@@ -1,0 +1,284 @@
+{
+  "gallery": {
+    "afrilia": [
+      {
+        "id": 1,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara A",
+        "url": "PLP/afril.jpg",
+        "date_added": "2023-10-11"
+      },
+      {
+        "id": 2,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara B",
+        "url": "PLP/afril2.jpg",
+        "date_added": "2023-10-12"
+      },
+      {
+        "id": 3,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara B",
+        "url": "PLP/afril3.jpg",
+        "date_added": "2023-10-12"
+      },
+      {
+        "id": 4,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara B",
+        "url": "PLP/afril4.jpg",
+        "date_added": "2023-10-12"
+      },
+      {
+        "id": 5,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara B",
+        "url": "PLP/afril5.jpg",
+        "date_added": "2023-10-12"
+      },
+      {
+        "id": 6,
+        "title": "Natasya Afrilia",
+        "description": "Foto tokoh1 di acara B",
+        "url": "PLP/afril6.jpg",
+        "date_added": "2023-10-12"
+      }
+    ],
+    "aniq": [
+      {
+        "id": 7,
+        "title": "Aniqotun",
+        "description": "Foto tokoh2 di acara A",
+        "url": "PLP/aniq.jpg",
+        "date_added": "2023-10-13"
+      },
+      {
+        "id": 8,
+        "title": "Aniqotun",
+        "description": "Foto tokoh2 di acara A",
+        "url": "PLP/aniq2.jpg",
+        "date_added": "2023-10-13"
+      },
+      {
+        "id": 9,
+        "title": "Aniqotun",
+        "description": "Foto tokoh2 di acara A",
+        "url": "PLP/aniq3.jpg",
+        "date_added": "2023-10-13"
+      },
+      {
+        "id": 10,
+        "title": "Aniqotun",
+        "description": "Foto tokoh2 di acara A",
+        "url": "PLP/aniq4.jpg",
+        "date_added": "2023-10-13"
+      },
+      {
+        "id": 11,
+        "title": "Aniqotun",
+        "description": "Foto tokoh2 di acara A",
+        "url": "PLP/aniq5.jpg",
+        "date_added": "2023-10-13"
+      }
+    ],
+    "rini": [
+      {
+        "id": 12,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 13,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini2.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 14,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini3.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 15,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini4.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 16,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini5.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 17,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini6.jpg",
+        "date_added": "2023-10-14"
+      },
+      {
+        "id": 18,
+        "title": "Rini",
+        "description": "Foto tokoh3 di acara B",
+        "url": "PLP/rini7.jpg",
+        "date_added": "2023-10-14"
+      }
+    ],
+    "salma": [
+      {
+        "id": 19,
+        "title": "Salma",
+        "description": "Foto tokoh4 di acara C",
+        "url": "PLP/salma.jpg",
+        "date_added": "2023-10-15"
+      },
+      {
+        "id": 20,
+        "title": "Salma",
+        "description": "Foto tokoh4 di acara C",
+        "url": "PLP/salma2.jpg",
+        "date_added": "2023-10-15"
+      },
+      {
+        "id": 21,
+        "title": "Salma",
+        "description": "Foto tokoh4 di acara C",
+        "url": "PLP/salma3.jpg",
+        "date_added": "2023-10-15"
+      },
+      {
+        "id": 22,
+        "title": "Salma",
+        "description": "Foto tokoh4 di acara C",
+        "url": "PLP/salma4.jpg",
+        "date_added": "2023-10-15"
+      },
+      {
+        "id": 23,
+        "title": "Salma",
+        "description": "Foto tokoh4 di acara C",
+        "url": "PLP/salma5.jpg",
+        "date_added": "2023-10-15"
+      }
+    ],
+    "vina": [
+      {
+        "id": 24,
+        "title": "Vina",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/vina.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 25,
+        "title": "Vina",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/vina2.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 26,
+        "title": "Vina",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/vina3.jpg",
+        "date_added": "11-10-2024"
+      }
+    ],
+    "fotbar": [
+      {
+        "id": 27,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 28,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar2.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 29,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar3.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 30,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar4.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 31,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar5.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 32,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar6.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 33,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar7.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 34,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar8.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 35,
+        "title": "Foto Bareng",
+        "description": "Foto tokoh5 di acara D",
+        "url": "PLP/fotbar9.jpg",
+        "date_added": "11-10-2024"
+      }
+    ],
+    "jama": [
+      {
+        "id": 36,
+        "title": "Aniq Rini Salma",
+        "description": "Foto tokoh6 di acara E",
+        "url": "PLP/aniq_rini_salma.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 37,
+        "title": "Rini Salma",
+        "description": "Foto tokoh6 di acara E",
+        "url": "PLP/rini_salma.jpg",
+        "date_added": "11-10-2024"
+      },
+      {
+        "id": 38,
+        "title": "Salma Vina",
+        "description": "Foto tokoh6 di acara E",
+        "url": "PLP/salma_vina.jpg",
+        "date_added": "11-10-2024"
+      }
+    ]
+  }
+}
